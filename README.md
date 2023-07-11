@@ -2,7 +2,6 @@
 - 👀 I’m interested in MERN Stack and DSA
 - 🌱 I’m currently learning Reactjs and Nodejs
 - 💞️ I’m looking to collaborate on Frontend Projects
-- 📫 How to reach me ...
 
 <!---
 tomar-07/tomar-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
